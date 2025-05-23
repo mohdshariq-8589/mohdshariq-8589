@@ -12,7 +12,7 @@
 
 
 
-## 🧠 About Me
+### 🧠 About Me
 
 - 🎓 MCA Graduate from Madan Mohan Malaviya University of Technology, Gorakhpur
 - 💻 Turning ideas into full-stack web apps with React for the frontend, Node.js for the backend, and MongoDB at the core
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 ### 💻 Languages
 <p align="center">
