@@ -5,6 +5,8 @@
   <img src="https://asset.cloudinary.com/dvxpheegi/941fd74f0b78f3002e47e09e1a8ec202" alt="mohdshariq-8589" />
 </p>
 
+### 🧠 About Me
+
 - 🎓 MCA Graduate from MMMUT Gorakhpur  
 - 💻 I love building full-stack web apps with React, Node.js, MongoDB  
 - 🚀 Currently working on **CareConnect**, **BrainBoost**, and more  
