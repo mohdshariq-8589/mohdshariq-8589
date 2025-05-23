@@ -14,12 +14,13 @@
 
 ### 🧠 About Me
 
-- 🎓 MCA Graduate from MMMUT Gorakhpur  
-- 💻 I love building full-stack web apps with React, Node.js, MongoDB  
-- 🚀 Currently working on **CareConnect**, **BrainBoost**, and more  
+- 🎓 MCA Graduate from Madan Mohan Malaviya University of Technology, Gorakhpur
+- 💻 Turning ideas into full-stack web apps with React for the frontend, Node.js for the backend, and MongoDB at the core
+- 💡 I believe every line of code should bring us one step closer to solving real-world challenges.
+-    Enthusiastic about algorithmic problem solving, with hands-on experience solving 250+ challenges on LeetCode.
 - 🌱 Always learning new tech and exploring open source  
-- 📫 Reach me at **your.email@example.com**  
-- 🌐 Portfolio: [Your Portfolio]
+- 📫 Reach me at **mohdshariq8589@gmail.com**  
+
 
 ---
 
