@@ -17,7 +17,7 @@
 - 🎓 MCA Graduate from Madan Mohan Malaviya University of Technology, Gorakhpur
 - 💻 Turning ideas into full-stack web apps with React for the frontend, Node.js for the backend, and MongoDB at the core
 - 💡 I believe every line of code should bring us one step closer to solving real-world challenges.
--    Enthusiastic about algorithmic problem solving, with hands-on experience solving 250+ challenges on LeetCode.
+- ⚡  Enthusiastic about algorithmic problem solving, with hands-on experience solving 250+ challenges on LeetCode.
 - 🌱 Always learning new tech and exploring open source  
 - 📫 Reach me at **mohdshariq8589@gmail.com**  
 
