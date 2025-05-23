@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohdshariq-8589&label=Profile%20views&color=0e75b6&style=flat" alt="mohdshariq-8589" />
+  <img src="[https://komarev.com/ghpvc/?username=mohdshariq-8589&label=Profile%20views&color=0e75b6&style=flat](https://console.cloudinary.com/console/c-5f360147105549a7e34d6787fbd60f/media_library/homepage/asset/a23041a61b364b1a9ec581b31f499605/manage?context=manage)" alt="mohdshariq-8589" />
 </p>
 
 - 🎓 MCA Graduate from MMMUT Gorakhpur  
