@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi there, I'm Shariq 👋
+  Hi there, I'm Mohd Shariq 👋
+  <hr />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Always+learning+new+tech" alt="Typing SVG" />
 </h1>
