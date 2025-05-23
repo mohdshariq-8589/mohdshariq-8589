@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shariq</h1>
+<h1 align="center">Hi 👋, I'm Mohd Shariq</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://asset.cloudinary.com/dvxpheegi/941fd74f0b78f3002e47e09e1a8ec202" alt="mohdshariq-8589" />
-</p>
 
 ### 🧠 About Me
 
