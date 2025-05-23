@@ -6,8 +6,9 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+MERN+Developer;Passionate+Programmer+%F0%9F%92%BB;Clean+Code+Enthusiast+%F0%9F%A7%BC;React+%26+Node.js+Specialist+%E2%9A%9B%EF%B8%8F;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Passionate+Programmer+%F0%9F%92%BB;Clean+Code+Enthusiast+%F0%9F%A7%BC;React+%26+Node.js+Specialist+%E2%9A%9B%EF%B8%8F%2C+MongoDB+Lover;Always+Exploring+New+Technologies+%F0%9F%9A%80;Building+Scalable+Web+Apps+%F0%9F%8C%8D;Focused+on+User+Experience+%F0%9F%8E%AF;Writing+Code+That+Matters+%F0%9F%92%A1;Lifelong+Learner+%F0%9F%93%9A;Tech+Problem+Solver+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </p>
+
 
 
 ### 🧠 About Me
