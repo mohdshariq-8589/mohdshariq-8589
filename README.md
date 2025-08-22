@@ -104,12 +104,23 @@
 ### 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohd-shariq-8589" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:mohdshariq8589@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mohdshariq-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white" /></a>
-  <a href="https://leetcode.com/mohdshariq8589" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/mohdshariq01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohdshariq8589@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-three-omega-tq1z6nrx6w.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/mohdshariq8589" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_shariq______/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
