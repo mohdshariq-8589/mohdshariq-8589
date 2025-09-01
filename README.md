@@ -83,7 +83,7 @@
 
 ---
 
-### 🐍 Contribution Graph (Snake Animation)  
+###  Contribution Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdshariq-8589&theme=react-dark&hide_border=true&area=true"/>
