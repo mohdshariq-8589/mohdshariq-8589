@@ -18,7 +18,7 @@
 ### 🚀 Tech Stack  
 
 **Languages and Tools**  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,typescript,python,go,html,css,bootstrap,tailwind,materialui,react,redux,nodejs,express,firebase,mysql,postgres,mongodb,vscode,androidstudio,idea,eclipse,git,github,npm,postman,insomnia,docker,bash,axios,restapi" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,typescript,python,html,css,bootstrap,tailwind,materialui,react,redux,nodejs,express,firebase,mysql,postgres,mongodb,vscode,androidstudio,idea,eclipse,git,github,npm,postman,insomnia,bash,axios,restapi" alt="My Skills">
 
 ---
 
