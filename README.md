@@ -18,14 +18,14 @@
 ### 🚀 Tech Stack  
 
 **Languages and Tools**  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,go,html,css,bootstrap,tailwind,materialui,react,nodejs,express,firebase,hibernate,mysql,postgres,mongodb,dynamodb,vscode,androidstudio,idea,eclipse,pycharm,git,github,npm,postman,docker,aws,maven,bash" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,go,html,css,bootstrap,tailwind,materialui,react,nodejs,express,firebase,mysql,postgres,mongodb,vscode,androidstudio,idea,eclipse,git,github,npm,postman,docker,bash" alt="My Skills">
 
 ---
 
 ### 🔗 Connect with Me  
 
 <p align="left">
-<a href="https://twitter.com/_shariq__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shariq__" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/mohdshariq01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdshariq01" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohdshariq01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohdshariq01" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_shariq______/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shariq______" height="30" width="40" /></a>
