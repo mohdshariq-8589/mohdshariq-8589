@@ -24,23 +24,16 @@
 
 ### 🔗 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohdshariq01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohdshariq8589@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-three-omega-tq1z6nrx6w.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/mohdshariq8589" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_shariq______/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<p align="left">
+<a href="https://twitter.com/_shariq__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shariq__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohdshariq01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdshariq01" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohdshariq01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohdshariq01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_shariq______/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shariq______" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mohdshariq8589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohdshariq8589" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohdshariq8589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohdshariq8589" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/mohdshariq8589/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mohdshariq8589" height="30" width="40" /></a>
 </p>
+
 
 ---
 
